@@ -42,3 +42,11 @@ curl -fsSL https://openclaw.ai/install.sh | bash
 
 https://clawhub.ai/
 
+
+---Add a new agent and paring with Telegram bot
+
+1) Go to Terminal, run: "openclaw agents add \<AgentName>"
+2) Go to OpenClaw Dashboard WebUI - Chat - Switch to target agent - send 'Set up Telegram with this bot token: <BotToken>'
+3) In Telegram, find your bot, send first message. This will trigger pairing.
+4) Go to Terminal, run: "openclaw pairing approve telegram \<code>"
+
