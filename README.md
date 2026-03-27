@@ -20,9 +20,9 @@ https://telegram.org/
 
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | bash
 
-echo >> /home/workshop11/.bashrc
+echo >> ～/.bashrc
 
-echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"' >> /home/workshop11/.bashrc
+echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"' >> ～/.bashrc
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv bash)"
 
