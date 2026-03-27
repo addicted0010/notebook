@@ -50,3 +50,10 @@ https://clawhub.ai/
 3) In Telegram, find your bot, send first message. This will trigger pairing.
 4) Go to Terminal, run: "openclaw pairing approve telegram \<code>"
 
+
+---Have a Try
+
+毎朝7時に天気・カレンダー・メール要約・業界トップニュースを自動配信する「Heartbeat」スキルを設定してください。
+
+
+
